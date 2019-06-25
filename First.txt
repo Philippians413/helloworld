@@ -1,1 +1,3 @@
 Hello world from master!
+
+Now I'm on rebase_branch
